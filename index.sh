@@ -1,5 +1,5 @@
 #!/bin/bash
-# Bot Marlboro Coded By Achon666ju5t - Demeter16
+
 GREEN='\e[38;5;82m'
 CYAN='\e[38;5;39m'
 RED='\e[38;5;196m'
